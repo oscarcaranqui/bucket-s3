@@ -16,7 +16,5 @@ https://github.com/s3fs-fuse/s3fs-fuse
 
 1. sudo apt install s3fs
 2. 
-echo AKIA4DKFL42QF6PUSZLY:0/GMW6sSLG6saX1DQR0XplcaO9Wowprq7PvCla7a > ${HOME}/.passwd-s3fs
-chmod 600 ${HOME}/.passwd-s3fs
 
 
